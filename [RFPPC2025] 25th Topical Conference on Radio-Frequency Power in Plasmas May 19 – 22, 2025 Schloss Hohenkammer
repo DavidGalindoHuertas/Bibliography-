@@ -1,0 +1,7 @@
+[1]	V. Lancellotti, D. Milanesio, R. Maggiora, G. Vecchi, and V. Kyrytsya, “TOPICA: An accurate and efficient numerical tool for analysis and design of ICRF antennas,” Nucl. Fusion, vol. 46, no. 7, 2006, doi: 10.1088/0029-5515/46/7/S10.
+[2]	M. Brambilla, “Finite Larmor radius wave equations in Tokamak plasmas in the ion cyclotron frequency range,” Plasma Phys. Control. Fusion, vol. 31, no. 5, pp. 723–757, 1989, doi: 10.1088/0741-3335/31/5/004.
+[3]	M. Brambilla, “Evaluation of the surface admittance matrix of a plasma in the finite Larmor radius approximation,” Nucl. Fusion, vol. 35, no. 10, pp. 1265–1280, 1995, doi: 10.1088/0029-5515/35/10/I09.
+[4]	J. J. Dongarra, C. B. Moler, J. R. Bunch, and G. W. Stewart, LINPACK Users’ Guide. Society for Industrial and Applied Mathematics, 1979.
+[5]	R. Maggiora, G. Vecchi, V. Lancellotti, and V. Kyrytsya, “Efficient 3D/1D self-consistent integral-equation analysis of ICRH antennae,” Nucl. Fusion, vol. 44, no. 8, pp. 846–868, 2004, doi: 10.1088/0029-5515/44/8/004.
+[6]	MAX PLANCK INSTITUTE FOR PLASMA PHYSICS, “ASDEX Upgrade.” https://www.ipp.mpg.de/16195/asdex (accessed May 08, 2025).
+[7]	D. Galindo, D. Milanesio, G. Vecchi, R. Bilato, M. Brambilla, and S. Ceccuzzi, “A new FELICE release coupled to TOPICA code,” vol. 049, no. 1, pp. 4–7, 2023
